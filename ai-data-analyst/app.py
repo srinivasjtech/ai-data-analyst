@@ -54,16 +54,16 @@ st.title('\n AI Data Analysis Tool')
 
 uploaded_file = st.file_uploader('Upload CSV file', type=['csv'])
 
-db = init_firebase()
+#db = init_firebase()
 
 if uploaded_file:
     # Read the CSV file into a DataFrame (table)
     df = pd.read_csv(uploaded_file)
 
-    if db:
-        save_dataset_metadata(db, uploaded_file, df)
-    else:
-        st.info("Firebase is not configured. Add service account credentials to st.secrets.")
+    #if db:
+       # save_dataset_metadata(db, uploaded_file, df)
+    #else:
+       # st.info("Firebase is not configured. Add service account credentials to st.secrets.")
 
     # Show 3 summary numbers at the top
     c1, c2, c3 = st.columns(3)
