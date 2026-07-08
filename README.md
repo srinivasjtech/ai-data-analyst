@@ -197,15 +197,17 @@ Contributions are welcome!
 
 1. When giving the input csv file.
 
-![alt text](<Screenshot 2026-07-07 115222.png>)
+<img width="1897" height="827" alt="Screenshot 2026-07-07 115222" src="https://github.com/user-attachments/assets/e355d34e-b88d-4ef9-a8e8-6509fb6a67c5" />
+
 
 2. Shows the necessary plots or graphs for the given input csv file.
 
-![alt text](<Screenshot 2026-07-07 115621.png>)
+<img width="1863" height="632" alt="Screenshot 2026-07-07 115621" src="https://github.com/user-attachments/assets/7b3cd4f2-a2e7-4ab0-b00c-515b4c41f90e" />
+
 
 3.AI output for the question given regarding the input csv file data.
 
-![alt text](<Screenshot 2026-07-07 115700.png>)
+<img width="1850" height="717" alt="Screenshot 2026-07-07 115700" src="https://github.com/user-attachments/assets/d727e08b-35bc-4567-ab9a-0adf56c1d544" />
 
 ---
 
