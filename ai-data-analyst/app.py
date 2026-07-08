@@ -141,4 +141,4 @@ if uploaded_file:
                 ' Question: ' + custom_q
             )
             st.info(ask_ai(prompt))
-st.footer('Made with ❤️ by [Srinivas](https://www.linkedin.com/in/srinivasj03)')
+st.text('Made with ❤️ by [Srinivas](https://www.linkedin.com/in/srinivasj03)')
